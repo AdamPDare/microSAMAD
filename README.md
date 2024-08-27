@@ -14,6 +14,5 @@ https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
   https://github.com/computational-cell-analytics/micro-sam <br>
   
 **Micro-SAM Documentation:** <br>
-  https://computational-cell-analytics.github.io/micro-sam/micro_sam.html <br>
+  https://computational-cell-analytics.github.io/micro-sam/micro_sam.html <br><br>
 
-**Python Environment & Libraries**: <br>

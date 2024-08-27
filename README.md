@@ -1,6 +1,7 @@
 **Anglia Ruskin University Micro-SAM Research Project** <br>
 
 Uploaded to this Github Repository is the code used to segment and annotate nuclei and cell membranes of Fruit Flies & Zebra fish. <br>
+(The TIFF Files cannot be uploaded due to size) <br>
 
 Utilises Segment Anything for Microscopy, built upon Meta's Segment Anything Model: <br><br>
 

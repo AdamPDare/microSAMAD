@@ -10,8 +10,8 @@ https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1     <br><br>
 **Segment Anything Publication:** <br>
 https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
 
-**The Auto Segmentation (Micro-SAM) code is from:** 
+**The Auto Segmentation (Micro-SAM) code is from:** <br>
   https://github.com/computational-cell-analytics/micro-sam <br>
   
-**And using the Micro-SAM Documentation:**
+**And using the Micro-SAM Documentation:** <br>
   https://computational-cell-analytics.github.io/micro-sam/micro_sam.html <br>

@@ -22,10 +22,12 @@ https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
   **Work Completed:** <br>
   -	Set up Miniforge/ Anaconda Environment to utilise a GPU for the SAM process <br>
   -	Learn how to use Napari to create ground truths (using the gui to annotate) <br>
+    - Refer to this: https://www.youtube.com/playlist?list=PLwYZXQJ3f36GQPpKCrSbHjGiH39X4XjSO <br>
   -	Use Fijji to split the colour channels to run Micro-SAM’s Auto Segmentation <br>
   -	Utilise Micro-SAM’s auto segmentation for 2D and 3D images <br>
   - Display the results using Matplotlib <br>
   -	Export these results to a TIFF File <br>
+    - To display these results use Fijji <br>
   - Look into fine tuning a model using ground truths (would need to create these using Napari) <br>
       - Refer to this: https://github.com/computational-cell-analytics/micro-sam/blob/master/notebooks/sam_finetuning.ipynb <br>
   - Calculate the centroids of the labels/ annotations from the Micro-SAM Model. <br>

@@ -31,5 +31,6 @@ https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
   - Look into fine tuning a model using ground truths (would need to create these using Napari) <br>
       - Refer to this: https://github.com/computational-cell-analytics/micro-sam/blob/master/notebooks/sam_finetuning.ipynb <br>
   - Calculate the centroids of the labels/ annotations from the Micro-SAM Model. <br>
+    - This needs to be exported to a TIFF File <br>
 
 

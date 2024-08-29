@@ -27,10 +27,15 @@ https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
   -	Utilise Micro-SAM’s auto segmentation for 2D and 3D images <br>
   - Display the results using Matplotlib <br>
   -	Export these results to a TIFF File <br>
-    - To display these results use Fijji <br>
+    - To display these results use Fijji & adjust the colours <br>
   - Look into fine tuning a model using ground truths (would need to create these using Napari) <br>
       - Refer to this: https://github.com/computational-cell-analytics/micro-sam/blob/master/notebooks/sam_finetuning.ipynb <br>
   - Calculate the centroids of the labels/ annotations from the Micro-SAM Model. <br>
-    - This needs to be exported to a TIFF File <br>
 
+
+  **Additional Tweaks needed:** <br>
+  - Centroid Labels need to be exported to a TIFF File <br>
+  - Add an option to name the output files for the Annotations <br>
+  
+  
 

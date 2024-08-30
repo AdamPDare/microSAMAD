@@ -33,9 +33,10 @@ https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
   - Calculate the centroids of the labels/ annotations from the Micro-SAM Model. <br><br>
 
 
-  **Additional Tweaks needed:** <br>
+  **Improvements that could be made:** <br>
   - Centroid Labels need to be exported to a TIFF File <br>
   - Add an option to name the output files for the Annotations <br>
+  - Output files take the filename of the input file automatically<br>
   
   
 

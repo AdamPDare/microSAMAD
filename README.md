@@ -35,6 +35,7 @@ https://arxiv.org/abs/2304.02643    	arXiv:2304.02643   <br><br>
 
   **Improvements that could be made:** <br>
   - Centroid Labels need to be exported to a TIFF File <br>
+  - Centroids need to be unique to the slide, not just all of them <br>
   - Add an option to name the output files for the Annotations <br>
   - Output files take the filename of the input file automatically<br>
   
